@@ -1,0 +1,1 @@
+ A reflected Cross-Site Scripting (XSS) vulnerability exists in Landis&Gyr Command Center Version 8.4.2.54 due to insufficient sanitization of user input in the filter parameters of the setup collector endpoint in Command Center.
